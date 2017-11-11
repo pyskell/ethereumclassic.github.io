@@ -76,4 +76,4 @@ Anyway this is only about half of the attendees, there’s lots more miners,
 exchange operators, developers attending and contributing to Classic. So again,
 get excited, but don’t get hyped!
 
-##### by [Pyskell](https://medium.com/@pyskell)
+##### by [Anthony](https://medium.com/@pyskell)
